@@ -1,8 +1,8 @@
 # Home task - 2 details
 
-Cloudfront URL - https://d2679ilfnrt6t9.cloudfront.net/
+Cloudfront URL - https://d2679ilfnrt6t9.cloudfront.net/ - Task 2.2/2.3
 
-S3 URL - http://aws-gmp-react-app-bucket4.s3-website-eu-west-1.amazonaws.com/ - Access denied
+S3 URL - [http://aws-gmp-react-app-bucket4.s3-website-eu-west-1.amazonaws.com/](https://awsgmp.s3.ap-south-1.amazonaws.com/index.html) - Task 2.1
 
 
 # React-shop-cloudfront
