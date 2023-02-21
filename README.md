@@ -1,3 +1,10 @@
+# Home task - 2 details
+
+Cloudfront URL - https://d2679ilfnrt6t9.cloudfront.net/ - Task 2.2/2.3
+
+S3 URL - https://aws-gmp-react-app-bucket4.s3.eu-west-1.amazonaws.com/index.html - Access denied error
+
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
